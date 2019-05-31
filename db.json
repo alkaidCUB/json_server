@@ -1,5 +1,5 @@
 {
-    "recharges": [
+    "posts": [
     {"id":1, "nombre":"Alexei","celular":"59173603230","cuenta":"5356685204","saldo":"20","fecha":"2019-05-31 20:26:23"},
 {"id":2, "nombre":"Alexei","celular":"59173603230","cuenta":"5358290082","saldo":"20","fecha":"2019-05-31 20:00:00"},
 {"id":3, "nombre":"Enrique","celular":"5352071248","cuenta":"5353691039","saldo":"20","fecha":"2019-05-31 19:59:17"}],
